@@ -49,7 +49,7 @@
         (b (- 1 y))
     (+ (* x (square a))
        (* y b)
-       (* a b))))
+       (* a b)))))
 
 ;; let is bound locally
 ;; variable values are computed outside of let
